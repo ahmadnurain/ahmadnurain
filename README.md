@@ -91,9 +91,9 @@
 
 <br/>
 
-<!-- Snake Animation Placeholder (Requires Action) -->
+<!-- Snake Animation -->
 <div align="center">
-  <img src="https://github.com/ahmadnurain/ahmadnurain/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
+  <img src="https://raw.githubusercontent.com/ahmadnurain/ahmadnurain/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
 </div>
 
 ---
