@@ -72,37 +72,45 @@
 
 ### 📊 GitHub Analytics
 
-<!-- 3D Trophy (Top Center) -->
+<!-- High-Tech Activity Dashboard -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmadnurain&theme=radical&no-frame=true&margin-w=15&margin-h=15&row=1" />
+  <!-- 1. The Activity Graph (Animated Line Chart) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadnurain&theme=react-dark&hide_border=true&area=true&color=00d9ff" alt="Activity Graph" width="100%" />
 </div>
 
 <br/>
 
-<!-- Split Layout: Streak (Left) & Snake (Right) -->
 <table align="center" width="100%" style="border: none;">
   <tr>
-    <td align="center" width="50%" style="border: none;">
-      <!-- Streak Stats -->
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadnurain&theme=radical&hide_border=true&background=1a1b27&fire=FF4500&ring=FF4500&currStreakNum=FFFFFF" alt="Streak Stats" width="100%" />
+    <td align="center" width="60%">
+      <!-- 2. Detailed Metrics (Cyberpunk Style) -->
+      <!-- Taking full advantages of Metrics.lecoq.io with detailed plugins -->
+      <img src="https://metrics.lecoq.io/ahmadnurain?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia%2FJakarta&config.padding=0,0,0,0" alt="Isometric Commit Calendar" width="100%" />
     </td>
-    <td align="center" width="50%" style="border: none;">
-      <!-- Snake Animation -->
-      <img src="https://raw.githubusercontent.com/ahmadnurain/ahmadnurain/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
+    <td align="center" width="40%">
+      <!-- 3. Vertical Tech Stats -->
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadnurain&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=1a1b27&langs_count=6" alt="Languages" width="100%" />
     </td>
   </tr>
 </table>
 
 <br/>
 
-<!-- Detailed Metrics (Full Width Below) -->
+<!-- 4. The Snake Game (Bottom, Wide) -->
 <div align="center">
-  <img src="https://metrics.lecoq.io/ahmadnurain?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&languages=1&languages.limit=8&languages.threshold=0%25&languages.bar=high&config.timezone=Asia%2FJakarta" alt="Metrics" width="100%" />
+  <img src="https://raw.githubusercontent.com/ahmadnurain/ahmadnurain/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
+</div>
+
+<br/>
+
+<!-- 5. Streak Stats (Minimalist Bar) -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadnurain&theme=radical&hide_border=true&background=1a1b27&fire=F1502F&sideNums=F1502F&sideLabels=F1502F&currStreakLabel=F1502F" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-  <p>© 2025 Ahmad Nurain. Built with ❤️ and Coffee.</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d9ff&height=100&section=footer"/>
+  <p style="color: #00d9ff; font-weight: bold;">© 2025 Ahmad Nurain | Architecting the Future</p>
 </div>
