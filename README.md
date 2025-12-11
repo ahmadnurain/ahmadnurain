@@ -57,18 +57,15 @@
 
 ---
 
-### 🛠️ Arsenal & Tech Stack
+### 🛠️ Most Used Languages
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=php,py,js,ts,go,java,c,cpp&perline=8&theme=dark" />
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=laravel,vue,react,next,tailwind,bootstrap,express,django&perline=8&theme=dark" />
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,docker,kubernetes,aws,gcp&perline=8&theme=dark" />
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,linux,vim,figma,postman&perline=8&theme=dark" />
-
+  <!-- This stats card updates AUTOMATICALLY based on your GitHub commits -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadnurain&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27&langs_count=8&hide=html,css" alt="Top Languages" width="60%" />
+  
+  <br/><br/>
+  
+  <p><i>The stats above are dynamically fetched from my repositories.</i></p>
 </div>
 
 ---
