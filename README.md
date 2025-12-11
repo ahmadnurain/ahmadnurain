@@ -72,30 +72,32 @@
 
 ### 📊 GitHub Analytics
 
-<!-- 3D Contribution Graph (Green Theme) -->
+<!-- 3D Trophy (Top Center) -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ahmadnurain&theme=radical&no-frame=true&margin-w=15&margin-h=15&row=1" />
 </div>
 
 <br/>
 
-<div align="center">
-  <!-- Alternative Stats Service that is ONLINE -->
-  <img src="https://metrics.lecoq.io/ahmadnurain?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&languages=1&languages.limit=8&languages.threshold=0%25&languages.bar=high&config.timezone=Asia%2FJakarta" alt="Metrics" width="100%" />
-</div>
+<!-- Split Layout: Streak (Left) & Snake (Right) -->
+<table align="center" width="100%" style="border: none;">
+  <tr>
+    <td align="center" width="50%" style="border: none;">
+      <!-- Streak Stats -->
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadnurain&theme=radical&hide_border=true&background=1a1b27&fire=FF4500&ring=FF4500&currStreakNum=FFFFFF" alt="Streak Stats" width="100%" />
+    </td>
+    <td align="center" width="50%" style="border: none;">
+      <!-- Snake Animation -->
+      <img src="https://raw.githubusercontent.com/ahmadnurain/ahmadnurain/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
+<!-- Detailed Metrics (Full Width Below) -->
 <div align="center">
-  <!-- Streak Stats (Reliable) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadnurain&theme=radical&hide_border=true&background=1a1b27&fire=FF4500&ring=FF4500&currStreakNum=FFFFFF" alt="Streak Stats" />
-</div>
-
-<br/>
-
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ahmadnurain/ahmadnurain/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
+  <img src="https://metrics.lecoq.io/ahmadnurain?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&languages=1&languages.limit=8&languages.threshold=0%25&languages.bar=high&config.timezone=Asia%2FJakarta" alt="Metrics" width="100%" />
 </div>
 
 ---
